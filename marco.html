@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>HTML5 by example</title>
+</head>
+<body>
+  <header>
+    <hgroup id="course-logo">
+      <h1>HTML5</h1>
+      <h2>by example</h2>
+    </hgroup>
+  </header>
+  <section>
+    <h2 id="index-title">Index</h2>
+    <h3>Session I: hands on</h3>
+    <ol>
+      <li>Getting started with <i><abbr title="HyperText Markup Language, version 5">HTML5</abbr></i></li>
+      <li>Getting started with <i><abbr title="Cascade Style Sheets, version 3">CSS3</abbr></i></li>
+    </ol>
+    <h3>Session II: diving into</h3>
+    <ol>
+      <li>Getting started with <i>JavaScript 1.8</i></li>
+      <li>Multimedia tags and APIs of <i>HTML5</i></li>
+    </ol>
+    <h3>Session III: advance topics</h3>
+    <ol>
+      <li>Advanced selectors and effects in <i>CSS3</i></li>
+      <li>Towrads professional JavaScript</li>
+    </ol>
+  </section>
+  <footer>
+    <p>
+      Authored by <span itemscope itemtype="http://schema.org/Person" itemprop="name">Salvador de la Puente</span>; updated on <time datetime="2013-06-30">the last day of June.</time>
+    </p>
+    <p>
+    Like the <a title="Click here to access the latest HTML5 specification." href="http://www.whatwg.org/specs/web-apps/current-work/">HTML5 specification</a>, this is a living document.
+    </p>
+  </footer>
+</body>
+</html>
