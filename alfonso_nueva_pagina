@@ -1,0 +1,19 @@
+<html>
+<head>
+
+	<script>  type=text/javascript">
+		const precioGasolina=1.33;
+		//Conversión galón/litro
+		const galones_litros=3.78541;	
+		//El marcador del surtidor lo pongo fijo porque todavía no sé como leerlo de la web
+		var marcador surtidor=35;
+		var resultado= marcador_surtidor*galones_litros*precioGasolina;
+		alert (resultado+'€')	
+	
+	</script>
+
+</head>
+
+</body>
+
+</html>
